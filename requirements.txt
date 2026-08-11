@@ -1,0 +1,9 @@
+# Hospital Management System - dependencies
+# Tested with Python 3.12/3.13. The project targets Python 3.14 per spec;
+# pin versions here once you've confirmed compatibility with your exact
+# interpreter, as PySide6 wheel availability for very new Python releases
+# can lag behind the CPython release itself.
+
+PySide6>=6.6
+reportlab>=4.0
+openpyxl>=3.1
